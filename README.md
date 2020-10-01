@@ -1,2 +1,2 @@
 # Covid-projects
-This project shows current corona virus cases of the countries you entered
+This project shows the real time cses of corona in the country using the API
